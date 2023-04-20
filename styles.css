@@ -1,8 +1,9 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
 }
 
-h1 {
+.github {
     text-align: center;
 }
 
@@ -12,9 +13,9 @@ h1 {
 
 .ListBorder {
     border: solid gold;
-    max-width: 90px;
-    margin: 30px;
-    border-radius: 30px;
+    max-width: 100px;
+    margin: 20px;
+    border-radius: 10px;
 }
 
 .QuoteBruce {
