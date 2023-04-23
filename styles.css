@@ -1,20 +1,13 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
-}
-
-h1 {
-    text-align: center;
-}
-
-.YouTube {
     text-align: center;
 }
 
 .ListBorder {
     border: solid gold;
-    max-width: 90px;
-    margin: 30px;
-    border-radius: 30px;
+    max-width: 100px;
+    margin: 20px;
+    border-radius: 10px;
 }
 
 .QuoteBruce {
